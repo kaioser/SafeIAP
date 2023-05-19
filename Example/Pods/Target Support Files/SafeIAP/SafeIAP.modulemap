@@ -1,0 +1,6 @@
+framework module SafeIAP {
+  umbrella header "SafeIAP-umbrella.h"
+
+  export *
+  module * { export * }
+}
