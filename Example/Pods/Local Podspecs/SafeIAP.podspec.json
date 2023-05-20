@@ -20,5 +20,13 @@
   },
   "source_files": "SafeIAP/Classes/**/*",
   "swift_versions": "5.0",
+  "dependencies": {
+    "Indicator/System": [
+
+    ],
+    "Extension/ViewController": [
+
+    ]
+  },
   "swift_version": "5.0"
 }

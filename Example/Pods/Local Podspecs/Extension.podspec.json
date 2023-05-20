@@ -1,0 +1,50 @@
+{
+  "name": "Extension",
+  "version": "0.1.3",
+  "summary": "常用扩展",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitee.com/uiop/extension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yxkkk": "13730228573@163.com"
+  },
+  "source": {
+    "git": "https://gitee.com/uiop/extension.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Extension/Classes/**/*",
+  "subspecs": [
+    {
+      "name": "Array",
+      "source_files": "Extension/Classes/Array/**/*"
+    },
+    {
+      "name": "Device",
+      "source_files": "Extension/Classes/Device/**/*"
+    },
+    {
+      "name": "Color",
+      "source_files": "Extension/Classes/Color/**/*"
+    },
+    {
+      "name": "String",
+      "source_files": "Extension/Classes/String/**/*"
+    },
+    {
+      "name": "ViewController",
+      "source_files": "Extension/Classes/ViewController/**/*"
+    },
+    {
+      "name": "Bundle",
+      "source_files": "Extension/Classes/Bundle/**/*"
+    }
+  ],
+  "swift_version": "5.0"
+}

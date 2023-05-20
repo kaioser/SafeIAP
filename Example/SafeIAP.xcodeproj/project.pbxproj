@@ -293,10 +293,14 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-SafeIAP_Example/Pods-SafeIAP_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Extension/Extension.framework",
+				"${BUILT_PRODUCTS_DIR}/Indicator/Indicator.framework",
 				"${BUILT_PRODUCTS_DIR}/SafeIAP/SafeIAP.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Extension.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Indicator.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SafeIAP.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;

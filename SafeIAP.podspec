@@ -31,6 +31,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'SafeIAP/Classes/**/*'
   s.swift_version = '5.0'
+  
+  s.dependency 'Indicator/System'
+  s.dependency 'Extension/ViewController'
 
   # s.resource_bundles = {
   #   'SafeIAP' => ['SafeIAP/Assets/*.png']
