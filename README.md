@@ -1,9 +1,9 @@
 # SafeIAP
 
-[![CI Status](https://img.shields.io/travis/yxkkk/SafeIAP.svg?style=flat)](https://travis-ci.org/yxkkk/SafeIAP)
-[![Version](https://img.shields.io/cocoapods/v/SafeIAP.svg?style=flat)](https://cocoapods.org/pods/SafeIAP)
-[![License](https://img.shields.io/cocoapods/l/SafeIAP.svg?style=flat)](https://cocoapods.org/pods/SafeIAP)
-[![Platform](https://img.shields.io/cocoapods/p/SafeIAP.svg?style=flat)](https://cocoapods.org/pods/SafeIAP)
+ [![CI Status](https://img.shields.io/travis/yxkkk/SafeIAP.svg?style=flat)](https://travis-ci.org/yxkkk/SafeIAP)
+ [![Version](https://img.shields.io/cocoapods/v/SafeIAP.svg?style=flat)](https://cocoapods.org/pods/SafeIAP)
+ [![License](https://img.shields.io/cocoapods/l/SafeIAP.svg?style=flat)](https://cocoapods.org/pods/SafeIAP)
+ [![Platform](https://img.shields.io/cocoapods/p/SafeIAP.svg?style=flat)](https://cocoapods.org/pods/SafeIAP)
 
 ## Example
 
@@ -22,7 +22,7 @@ pod 'SafeIAP'
 
 ## Author
 
-yxkkk, 13730228573@163.com
+yangxiongkai, yangxiongkai@126.com
 
 ## License
 

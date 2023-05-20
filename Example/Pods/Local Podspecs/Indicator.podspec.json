@@ -1,38 +1,24 @@
 {
   "name": "Indicator",
-  "version": "0.1.0",
-  "summary": "系统+MB的指示器",
+  "version": "0.1.2",
+  "summary": "系统活动指示器",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://gitee.com/uiop/indicator",
+  "homepage": "https://github.com/kaioser/ActivityIndicator",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yangxiongkai": "13730228573@163.com"
+    "yangxiongkai": "yangxiongkai@126.com"
   },
   "source": {
-    "git": "https://gitee.com/uiop/indicator.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/kaioser/ActivityIndicator.git",
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "13.0"
   },
   "swift_versions": "5.0",
-  "subspecs": [
-    {
-      "name": "System",
-      "source_files": "Indicator/Classes/System/**/*"
-    },
-    {
-      "name": "Third",
-      "source_files": "Indicator/Classes/Third/**/*",
-      "dependencies": {
-        "MBProgressHUD": [
-
-        ]
-      }
-    }
-  ],
+  "source_files": "Indicator/Classes/System/**/*",
   "swift_version": "5.0"
 }

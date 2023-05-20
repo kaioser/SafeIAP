@@ -5,7 +5,7 @@ platform :ios, '13.0'
 target 'SafeIAP_Example' do
   pod 'SafeIAP', :path => '../'
   
-  pod 'Indicator/System', :path => '../../Indicator'
+  pod 'Indicator', :path => '../../ActivityIndicator'
   pod 'Extension/ViewController', :path => '../../Extension'
 
   target 'SafeIAP_Tests' do

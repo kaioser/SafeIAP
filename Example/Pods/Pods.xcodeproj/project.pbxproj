@@ -10,65 +10,65 @@
 		05794C0BFC823253E40BD156276FDC8A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		073CAF5E07FE4BDFFC05ABB05CC3EABC /* Pods-SafeIAP_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5521EA0334D9FF79CE797C56E401840D /* Pods-SafeIAP_Tests-dummy.m */; };
 		0C938E18AA3D6ECCB74901807A34FFB6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		0CD63380B03C5AF7E8D64DF767F8038B /* Indicator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EF8310BF9775E5C4F532997C17249002 /* Indicator-dummy.m */; };
-		1D2890C46B1D2BBCBE83B2A9F0D47DD2 /* Extension-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 71AF6D6CB30B1A8AD7BD832FE5E11F6A /* Extension-dummy.m */; };
-		208245C40FB6C3AEBEED71A081CB0BBA /* LocalTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25680989F4A277C0967585E261999086 /* LocalTool.swift */; };
-		210A7A14B158074B5DEAA000FB62106F /* SafeIAP-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CB51D662AA4F23A2DD09CDDD675C30A /* SafeIAP-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0CD63380B03C5AF7E8D64DF767F8038B /* Indicator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FBE19C375E5F39E7EEBA56D32FC6F0B3 /* Indicator-dummy.m */; };
+		1D2890C46B1D2BBCBE83B2A9F0D47DD2 /* Extension-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B1AC7423FD89F1ED57901855A0D22190 /* Extension-dummy.m */; };
+		208245C40FB6C3AEBEED71A081CB0BBA /* LocalTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC12F43B6410D4F18A0AE31A7C7A55E /* LocalTool.swift */; };
+		210A7A14B158074B5DEAA000FB62106F /* SafeIAP-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 444E9A90DF68393D9B33B83341B34631 /* SafeIAP-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42F944B3EE0B0738E7003E4B657F49EB /* Pods-SafeIAP_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AFBD1F235F8F5D1976A2AC2E44BB82B4 /* Pods-SafeIAP_Example-dummy.m */; };
-		487D647104061EFAF0BDCDE7138974CB /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE9529DBE4ADF6E677CE399F1E866F78 /* ActivityIndicator.swift */; };
-		508DB243504F58BAECB1DFA661BFBE82 /* LoadingProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64F0D2BA51F8A18D82B912B10B5CCCE /* LoadingProtocol.swift */; };
+		487D647104061EFAF0BDCDE7138974CB /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A6181099349CADE853A18219C225F6 /* ActivityIndicator.swift */; };
+		508DB243504F58BAECB1DFA661BFBE82 /* LoadingProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7587217B8E4E2CA03E0E94E9F269C5 /* LoadingProtocol.swift */; };
 		5BD80F8E8E74B5721CAED517919BE666 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		687FB886D525F33131CE5E7458DE6EB2 /* SafeIAP-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 99634EB46B559D018088213AF265E60C /* SafeIAP-dummy.m */; };
-		7574CD7C7E891812C4ACE1D7150F5754 /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FCB6CE535A003DD0540A032CBD0E16A /* IAPManager.swift */; };
-		76367C33C354E7895341CC1E5C75D5D2 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CF3BDEE75BE62331AA80814DE68873 /* UIViewController+Extension.swift */; };
-		852DF975A543E5815585055D27CEE855 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA2D21F7D1CCE3560091AA7EB0F41A9 /* Common.swift */; };
+		687FB886D525F33131CE5E7458DE6EB2 /* SafeIAP-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7998AEE8DFDE4AB7084BC4737DCB1369 /* SafeIAP-dummy.m */; };
+		7574CD7C7E891812C4ACE1D7150F5754 /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E401486967E41A667B53E3529D409F /* IAPManager.swift */; };
+		76367C33C354E7895341CC1E5C75D5D2 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0B21308FC562C45E58D39B1388DC029 /* UIViewController+Extension.swift */; };
+		852DF975A543E5815585055D27CEE855 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CC8FE164D06E4CC4B124B9F6745194 /* Common.swift */; };
 		AE74FF356EC0BF3F8A73E41211583A21 /* Pods-SafeIAP_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 19477E3179952B8BA6CBEB71050A085E /* Pods-SafeIAP_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B0C61A2DAEB247E5F727631C43638012 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		BC14577D2A8E6F96A165798FE21134CA /* StoreObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD0695FE6DDBB12ACE87D25F882A112 /* StoreObserver.swift */; };
-		C8A926143F94E04074D44A90225BE0A2 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 154CD37CDF8C821EFE597755F131E832 /* Network.swift */; };
+		BC14577D2A8E6F96A165798FE21134CA /* StoreObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF84C88BFA833AD1237CA8737319B26 /* StoreObserver.swift */; };
+		C8A926143F94E04074D44A90225BE0A2 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE826BADD082F762581FDD521A44AEC /* Network.swift */; };
 		DFAB80137351F39C270D36FBEDFA19D1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		E4CB2F2AAEDDEB06EC62A5E2A9F15E96 /* Indicator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5525EFB7DFE0F7814E2134BE4340BB58 /* Indicator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E5D7EE8ADAB8809C802FDA27DA788E72 /* Extension-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BC5AEAF7209F12D4331E0222AB81BAC /* Extension-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E4CB2F2AAEDDEB06EC62A5E2A9F15E96 /* Indicator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D297646DA9327299B5CF983A98A4B74 /* Indicator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E5D7EE8ADAB8809C802FDA27DA788E72 /* Extension-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BAE6607BA1A9C5FE525B8EFBEE63781E /* Extension-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F4D6384351A96935A5CE4AB1FB4F8739 /* Pods-SafeIAP_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 05B6939446DFA42EF43928E01CD9315A /* Pods-SafeIAP_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		003CE646F5A2306F1E8E7881CF162A12 /* PBXContainerItemProxy */ = {
+		3DC14F3D67AA1B4D30FD5BCFC705B2C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2D0D6A8379869C9E2A43A64D64804F52;
+			remoteInfo = Indicator;
+		};
+		46C1795896204AE3B2C67504C6890BC3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6FC84D25FEFB29D499E36C3F9D531563;
 			remoteInfo = "Pods-SafeIAP_Example";
 		};
-		494C3FD06AD6F1B9BE804FCFB0AE6BB0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2D0D6A8379869C9E2A43A64D64804F52;
-			remoteInfo = Indicator;
-		};
-		7A4C176EDBD4963E3B44C9E0171AA181 /* PBXContainerItemProxy */ = {
+		72BA8ECAD8AF4C87A2A822084150914D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F37028ACDD90BD94702E1861EDD2616E;
 			remoteInfo = SafeIAP;
 		};
-		93098E5559E27C5ABBD053208ABA4311 /* PBXContainerItemProxy */ = {
+		9BD5D815AE1E02523DC0BA5DC15023CA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D0D6A8379869C9E2A43A64D64804F52;
 			remoteInfo = Indicator;
 		};
-		A3399F893FD52EACD517D98D629EEE5E /* PBXContainerItemProxy */ = {
+		AF527ED2FB918C22102E2D04320C4CB5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 83F2BFD83867A9D0A2EB4346E585EA0B;
 			remoteInfo = Extension;
 		};
-		CCFA07856CD9CB513456DB2CD845FFA7 /* PBXContainerItemProxy */ = {
+		F26F4BA9B80EF4979AD8D255E50A36A2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -78,68 +78,68 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		017A63BBACD42ED2FB0C856F0E3515E9 /* Extension.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Extension.modulemap; sourceTree = "<group>"; };
 		044CEE1ED31E1B240C8F255FF6844B50 /* Pods-SafeIAP_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-SafeIAP_Tests"; path = Pods_SafeIAP_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		05B6939446DFA42EF43928E01CD9315A /* Pods-SafeIAP_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SafeIAP_Example-umbrella.h"; sourceTree = "<group>"; };
-		05CF3BDEE75BE62331AA80814DE68873 /* UIViewController+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+Extension.swift"; path = "Extension/Classes/ViewController/UIViewController+Extension.swift"; sourceTree = "<group>"; };
-		0D1C83BC35FEB445EB6C7F7BBF90456C /* SafeIAP-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SafeIAP-prefix.pch"; sourceTree = "<group>"; };
-		12FF53B5519275D3D2892A66AF6AF439 /* SafeIAP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SafeIAP.release.xcconfig; sourceTree = "<group>"; };
+		067990B7309F1FD420B5172EE5538309 /* Extension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Extension.debug.xcconfig; sourceTree = "<group>"; };
+		0765B0C99613C9E14ED4F392F07B94C9 /* Extension.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Extension.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		13975839A1EF6E97B98EE194A5B21A72 /* Pods-SafeIAP_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-SafeIAP_Example"; path = Pods_SafeIAP_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		154CD37CDF8C821EFE597755F131E832 /* Network.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Network.swift; path = SafeIAP/Classes/Network.swift; sourceTree = "<group>"; };
-		16924915A606BC3E665C141F709411D1 /* Indicator-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Indicator-Info.plist"; sourceTree = "<group>"; };
 		19463252234B61A4BCDF8E4D8B4DF4B8 /* Pods-SafeIAP_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SafeIAP_Tests-Info.plist"; sourceTree = "<group>"; };
 		19477E3179952B8BA6CBEB71050A085E /* Pods-SafeIAP_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SafeIAP_Tests-umbrella.h"; sourceTree = "<group>"; };
-		25680989F4A277C0967585E261999086 /* LocalTool.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocalTool.swift; path = SafeIAP/Classes/LocalTool.swift; sourceTree = "<group>"; };
-		33DD9CC12686595848BE421EEF8C689F /* Extension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Extension.release.xcconfig; sourceTree = "<group>"; };
-		3AD0695FE6DDBB12ACE87D25F882A112 /* StoreObserver.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StoreObserver.swift; path = SafeIAP/Classes/StoreObserver.swift; sourceTree = "<group>"; };
+		21206EF2966D35C6431008E35EEFE547 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		2665E77D8B8741EC7AA6A247B350B151 /* SafeIAP.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SafeIAP.modulemap; sourceTree = "<group>"; };
+		2F23DF70A24376BF9C1AB16F35000356 /* SafeIAP-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SafeIAP-Info.plist"; sourceTree = "<group>"; };
 		3B16FAA133E4CA2623FB0A83C46B2B5C /* Extension */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Extension; path = Extension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		405FC978EBF7D8BAF8D9D48EC87D5348 /* SafeIAP.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SafeIAP.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		434BE81F9F2F039FC3693F118FF5FF97 /* Indicator.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Indicator.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		4CB51D662AA4F23A2DD09CDDD675C30A /* SafeIAP-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SafeIAP-umbrella.h"; sourceTree = "<group>"; };
+		444E9A90DF68393D9B33B83341B34631 /* SafeIAP-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SafeIAP-umbrella.h"; sourceTree = "<group>"; };
 		4F5095C1D7693A9FE52EED7F2BC98335 /* Pods-SafeIAP_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafeIAP_Example.release.xcconfig"; sourceTree = "<group>"; };
-		50132AB7AD3BA7C6788A6A7D8C16C82B /* Indicator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Indicator.debug.xcconfig; sourceTree = "<group>"; };
 		5224EEF938D8341D3A7955EC80E06617 /* Pods-SafeIAP_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SafeIAP_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5504840FBF531A771F353C9A67AF63AE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		5521EA0334D9FF79CE797C56E401840D /* Pods-SafeIAP_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SafeIAP_Tests-dummy.m"; sourceTree = "<group>"; };
-		5525EFB7DFE0F7814E2134BE4340BB58 /* Indicator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Indicator-umbrella.h"; sourceTree = "<group>"; };
+		5A3AA1FEC2EDB5ACF3A3FEF22D33BBC1 /* SafeIAP.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SafeIAP.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5A692A53D13E079E224D679EC18E3903 /* Pods-SafeIAP_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SafeIAP_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5C035DC65284CE3FE6EDD4620AA4D0CB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		5C41329E85F40654C3712B85E207C9A4 /* Pods-SafeIAP_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SafeIAP_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		5FC12F43B6410D4F18A0AE31A7C7A55E /* LocalTool.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocalTool.swift; path = SafeIAP/Classes/LocalTool.swift; sourceTree = "<group>"; };
 		6055859DEECDC433EC40560BD92522C5 /* Pods-SafeIAP_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SafeIAP_Example-frameworks.sh"; sourceTree = "<group>"; };
 		67E2FA6ABFDB8C8DD6DA298543BEF999 /* Pods-SafeIAP_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SafeIAP_Tests.modulemap"; sourceTree = "<group>"; };
-		6FCB6CE535A003DD0540A032CBD0E16A /* IAPManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IAPManager.swift; path = SafeIAP/Classes/IAPManager.swift; sourceTree = "<group>"; };
+		68DF727137EE23712DEF65CA4DC91A25 /* Indicator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Indicator.release.xcconfig; sourceTree = "<group>"; };
 		71995566EAD00671B1F4EEC5613DD0CC /* SafeIAP */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SafeIAP; path = SafeIAP.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		71AF6D6CB30B1A8AD7BD832FE5E11F6A /* Extension-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Extension-dummy.m"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		904AEAAA07379CF2F6F20B7A1D89C2D6 /* Indicator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Indicator.release.xcconfig; sourceTree = "<group>"; };
-		99634EB46B559D018088213AF265E60C /* SafeIAP-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SafeIAP-dummy.m"; sourceTree = "<group>"; };
-		9AA2D21F7D1CCE3560091AA7EB0F41A9 /* Common.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Common.swift; path = SafeIAP/Classes/Common.swift; sourceTree = "<group>"; };
-		9B993633635E24A4798405BAEF8D83FA /* Extension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Extension.debug.xcconfig; sourceTree = "<group>"; };
-		9BC5AEAF7209F12D4331E0222AB81BAC /* Extension-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Extension-umbrella.h"; sourceTree = "<group>"; };
+		7998AEE8DFDE4AB7084BC4737DCB1369 /* SafeIAP-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SafeIAP-dummy.m"; sourceTree = "<group>"; };
+		7F878BDB87D5E482BA6C17B8870B3A78 /* Extension-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Extension-prefix.pch"; sourceTree = "<group>"; };
+		8D297646DA9327299B5CF983A98A4B74 /* Indicator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Indicator-umbrella.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A2A734E706B465362A5F83C3747A1FDF /* Indicator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Indicator.debug.xcconfig; sourceTree = "<group>"; };
+		A9CC8FE164D06E4CC4B124B9F6745194 /* Common.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Common.swift; path = SafeIAP/Classes/Common.swift; sourceTree = "<group>"; };
 		AFBD1F235F8F5D1976A2AC2E44BB82B4 /* Pods-SafeIAP_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SafeIAP_Example-dummy.m"; sourceTree = "<group>"; };
-		B021FA8AAB8DF3C7908867557617DEFD /* SafeIAP-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SafeIAP-Info.plist"; sourceTree = "<group>"; };
+		B0B21308FC562C45E58D39B1388DC029 /* UIViewController+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+Extension.swift"; path = "Extension/Classes/ViewController/UIViewController+Extension.swift"; sourceTree = "<group>"; };
+		B1AC7423FD89F1ED57901855A0D22190 /* Extension-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Extension-dummy.m"; sourceTree = "<group>"; };
 		B9AE178CD5B30EB5C764C6212A0A6472 /* Pods-SafeIAP_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SafeIAP_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		BAF21834452A35F2D405F2412C561A0B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		BB90D1101D08C099F413993859DBD998 /* Extension-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Extension-prefix.pch"; sourceTree = "<group>"; };
-		BBB3B761D039D3A69DF7027C0EE22BF7 /* SafeIAP.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SafeIAP.modulemap; sourceTree = "<group>"; };
+		BAE6607BA1A9C5FE525B8EFBEE63781E /* Extension-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Extension-umbrella.h"; sourceTree = "<group>"; };
+		BBE826BADD082F762581FDD521A44AEC /* Network.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Network.swift; path = SafeIAP/Classes/Network.swift; sourceTree = "<group>"; };
 		BBF986C1EB5CE09C024228A5EA45A531 /* Pods-SafeIAP_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SafeIAP_Example-Info.plist"; sourceTree = "<group>"; };
 		BD9D765E03EC64F27021A52E6F26C5F3 /* Indicator */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Indicator; path = Indicator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BE4067F667C48462F9FEDF45BA4401A4 /* Extension.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Extension.modulemap; sourceTree = "<group>"; };
-		C10B629BBD1E64D716CF09BE37E8FD18 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		C7C6A13BBB4B20B9AD49B259F6830255 /* Indicator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Indicator.modulemap; sourceTree = "<group>"; };
-		D3182F71327830DD4C851BB7EEAB438A /* Extension-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Extension-Info.plist"; sourceTree = "<group>"; };
+		C3F37E369DEA3BEC08CF933DB1E7ED0F /* SafeIAP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SafeIAP.debug.xcconfig; sourceTree = "<group>"; };
+		C7A6E91E0CEB64B9E272E9894864B3D2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		C9A6181099349CADE853A18219C225F6 /* ActivityIndicator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ActivityIndicator.swift; path = Indicator/Classes/System/ActivityIndicator.swift; sourceTree = "<group>"; };
+		CB4304DFEA89EF468C48D58AEAC4BAE5 /* Indicator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Indicator.modulemap; sourceTree = "<group>"; };
+		CB4416A1B7F56E07CFAC75B9AFD0A083 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		CC1AB2F1BA2A079D4B756A9335F2CB6F /* SafeIAP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SafeIAP.release.xcconfig; sourceTree = "<group>"; };
+		CC9B1E6A5F23B44591AAAC21F99E7629 /* SafeIAP-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SafeIAP-prefix.pch"; sourceTree = "<group>"; };
+		D6B5BE6374A1338D1BF7647D177D9DB0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		D70D7AC1EB60198AA9153EC88B7C838F /* Indicator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Indicator-prefix.pch"; sourceTree = "<group>"; };
 		DC572EEB4AF94586F9A84A5A5645B63E /* Pods-SafeIAP_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafeIAP_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		DD24DE74083B1C7652CE1ACF145930CC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		DE9529DBE4ADF6E677CE399F1E866F78 /* ActivityIndicator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ActivityIndicator.swift; path = Indicator/Classes/System/ActivityIndicator.swift; sourceTree = "<group>"; };
+		DC7587217B8E4E2CA03E0E94E9F269C5 /* LoadingProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LoadingProtocol.swift; path = Indicator/Classes/System/LoadingProtocol.swift; sourceTree = "<group>"; };
 		E0A61847F6DF8B8346E95905793B867D /* Pods-SafeIAP_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SafeIAP_Example.modulemap"; sourceTree = "<group>"; };
-		E3863068AD3E61F0A4703215A73CF608 /* Extension.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Extension.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		E64F0D2BA51F8A18D82B912B10B5CCCE /* LoadingProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LoadingProtocol.swift; path = Indicator/Classes/System/LoadingProtocol.swift; sourceTree = "<group>"; };
 		E67474DEAA10B0D32A0782454334BA5A /* Pods-SafeIAP_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafeIAP_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		E716B38FA870AA89CD653B50667832A6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		EDF77B4F829EC47B73A859F03A987552 /* SafeIAP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SafeIAP.debug.xcconfig; sourceTree = "<group>"; };
-		EF8310BF9775E5C4F532997C17249002 /* Indicator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Indicator-dummy.m"; sourceTree = "<group>"; };
-		F1226C178FC2CEE48831A37A719141CF /* Indicator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Indicator-prefix.pch"; sourceTree = "<group>"; };
+		E9E401486967E41A667B53E3529D409F /* IAPManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IAPManager.swift; path = SafeIAP/Classes/IAPManager.swift; sourceTree = "<group>"; };
+		EA433927FB686296A0A5A1ED791AA939 /* Indicator.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Indicator.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F0A528F3410E239206F44D1C50FA1F1C /* Extension-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Extension-Info.plist"; sourceTree = "<group>"; };
+		F8B3FF5891D9ED1BD34D0C2F863F407D /* Extension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Extension.release.xcconfig; sourceTree = "<group>"; };
+		FAF84C88BFA833AD1237CA8737319B26 /* StoreObserver.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StoreObserver.swift; path = SafeIAP/Classes/StoreObserver.swift; sourceTree = "<group>"; };
+		FBC96B267A6A8C4D79C7C1E08E917AE9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		FBD0DE705F75FDEACE29343E1550C9DD /* Pods-SafeIAP_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafeIAP_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		FBE19C375E5F39E7EEBA56D32FC6F0B3 /* Indicator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Indicator-dummy.m"; sourceTree = "<group>"; };
+		FC1E840FA01D8C34028760F194824F05 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		FCDFC8A42FC3B0BA4F9CE0265898ABC5 /* Indicator-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Indicator-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,54 +186,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		19BCB2D90EC29644FCEF3FE76CC42471 /* Development Pods */ = {
+		096706AE494C28A9F66708EA8D842D46 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				EB4EB3113AE2299DAD5517E1B1836045 /* Extension */,
-				A05DABCDD19B6B29E94E91C709C09CAC /* Indicator */,
-				BE34B79BCC2935C5C3091280F9C6133B /* SafeIAP */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		2DA028F3FB773BDBB011CF566C8A3E89 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				E3863068AD3E61F0A4703215A73CF608 /* Extension.podspec */,
-				5504840FBF531A771F353C9A67AF63AE /* LICENSE */,
-				5C035DC65284CE3FE6EDD4620AA4D0CB /* README.md */,
+				EA433927FB686296A0A5A1ED791AA939 /* Indicator.podspec */,
+				FC1E840FA01D8C34028760F194824F05 /* LICENSE */,
+				FBC96B267A6A8C4D79C7C1E08E917AE9 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		2E7E78DF709AB26762BFAB729889DDF7 /* Support Files */ = {
+		22EBE54D30E3CCFECF5C876332061BA4 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				BBB3B761D039D3A69DF7027C0EE22BF7 /* SafeIAP.modulemap */,
-				99634EB46B559D018088213AF265E60C /* SafeIAP-dummy.m */,
-				B021FA8AAB8DF3C7908867557617DEFD /* SafeIAP-Info.plist */,
-				0D1C83BC35FEB445EB6C7F7BBF90456C /* SafeIAP-prefix.pch */,
-				4CB51D662AA4F23A2DD09CDDD675C30A /* SafeIAP-umbrella.h */,
-				EDF77B4F829EC47B73A859F03A987552 /* SafeIAP.debug.xcconfig */,
-				12FF53B5519275D3D2892A66AF6AF439 /* SafeIAP.release.xcconfig */,
+				B0B21308FC562C45E58D39B1388DC029 /* UIViewController+Extension.swift */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/SafeIAP";
+			name = ViewController;
 			sourceTree = "<group>";
 		};
-		400C802F351E362E893308BD3DC2BFF7 /* Support Files */ = {
+		3E0D339491B920151A4F28D2DD3C7893 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				BE4067F667C48462F9FEDF45BA4401A4 /* Extension.modulemap */,
-				71AF6D6CB30B1A8AD7BD832FE5E11F6A /* Extension-dummy.m */,
-				D3182F71327830DD4C851BB7EEAB438A /* Extension-Info.plist */,
-				BB90D1101D08C099F413993859DBD998 /* Extension-prefix.pch */,
-				9BC5AEAF7209F12D4331E0222AB81BAC /* Extension-umbrella.h */,
-				9B993633635E24A4798405BAEF8D83FA /* Extension.debug.xcconfig */,
-				33DD9CC12686595848BE421EEF8C689F /* Extension.release.xcconfig */,
+				A382BA4D8249299E6FAB1DCA059D79A8 /* Extension */,
+				7DE4A75D898A0C849B6D1B97E2271FEA /* Indicator */,
+				CC4D7ECFCA28007D9C9F341FA759C442 /* SafeIAP */,
 			);
-			name = "Support Files";
-			path = "../SafeIAP/Example/Pods/Target Support Files/Extension";
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		423C6AA3A4B518A7863C8E619FE3AD04 /* Products */ = {
@@ -246,23 +224,6 @@
 				71995566EAD00671B1F4EEC5613DD0CC /* SafeIAP */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		5253B235623029CE437C542381E8DD1F /* System */ = {
-			isa = PBXGroup;
-			children = (
-				DE9529DBE4ADF6E677CE399F1E866F78 /* ActivityIndicator.swift */,
-				E64F0D2BA51F8A18D82B912B10B5CCCE /* LoadingProtocol.swift */,
-			);
-			name = System;
-			sourceTree = "<group>";
-		};
-		564319A7AC5AE3E7C8E2447723D652C2 /* ViewController */ = {
-			isa = PBXGroup;
-			children = (
-				05CF3BDEE75BE62331AA80814DE68873 /* UIViewController+Extension.swift */,
-			);
-			name = ViewController;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -289,35 +250,92 @@
 			path = "Target Support Files/Pods-SafeIAP_Tests";
 			sourceTree = "<group>";
 		};
-		95BE3ACCDC66ECBFF586D84E97C5F2D0 /* Pod */ = {
+		7DE4A75D898A0C849B6D1B97E2271FEA /* Indicator */ = {
 			isa = PBXGroup;
 			children = (
-				434BE81F9F2F039FC3693F118FF5FF97 /* Indicator.podspec */,
-				BAF21834452A35F2D405F2412C561A0B /* LICENSE */,
-				C10B629BBD1E64D716CF09BE37E8FD18 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		A05DABCDD19B6B29E94E91C709C09CAC /* Indicator */ = {
-			isa = PBXGroup;
-			children = (
-				95BE3ACCDC66ECBFF586D84E97C5F2D0 /* Pod */,
-				F7F1F6C7B96B2C3FBA3CA34D2B5DBA75 /* Support Files */,
-				5253B235623029CE437C542381E8DD1F /* System */,
+				C9A6181099349CADE853A18219C225F6 /* ActivityIndicator.swift */,
+				DC7587217B8E4E2CA03E0E94E9F269C5 /* LoadingProtocol.swift */,
+				096706AE494C28A9F66708EA8D842D46 /* Pod */,
+				A53933E66C3F6D5146492A24CF259645 /* Support Files */,
 			);
 			name = Indicator;
-			path = ../../../Indicator;
+			path = ../../../ActivityIndicator;
 			sourceTree = "<group>";
 		};
-		A6D4597CC166E330CD2A50BF3E67D09C /* Pod */ = {
+		81AB7FEF6F6313AD26651CA60C585846 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				DD24DE74083B1C7652CE1ACF145930CC /* LICENSE */,
-				E716B38FA870AA89CD653B50667832A6 /* README.md */,
-				405FC978EBF7D8BAF8D9D48EC87D5348 /* SafeIAP.podspec */,
+				0765B0C99613C9E14ED4F392F07B94C9 /* Extension.podspec */,
+				D6B5BE6374A1338D1BF7647D177D9DB0 /* LICENSE */,
+				21206EF2966D35C6431008E35EEFE547 /* README.md */,
 			);
 			name = Pod;
+			sourceTree = "<group>";
+		};
+		87BBB1D1460F7184784200BB5D87DBD8 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				017A63BBACD42ED2FB0C856F0E3515E9 /* Extension.modulemap */,
+				B1AC7423FD89F1ED57901855A0D22190 /* Extension-dummy.m */,
+				F0A528F3410E239206F44D1C50FA1F1C /* Extension-Info.plist */,
+				7F878BDB87D5E482BA6C17B8870B3A78 /* Extension-prefix.pch */,
+				BAE6607BA1A9C5FE525B8EFBEE63781E /* Extension-umbrella.h */,
+				067990B7309F1FD420B5172EE5538309 /* Extension.debug.xcconfig */,
+				F8B3FF5891D9ED1BD34D0C2F863F407D /* Extension.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../SafeIAP/Example/Pods/Target Support Files/Extension";
+			sourceTree = "<group>";
+		};
+		969399EA847E514391B2BFBF4BF40080 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				CB4416A1B7F56E07CFAC75B9AFD0A083 /* LICENSE */,
+				C7A6E91E0CEB64B9E272E9894864B3D2 /* README.md */,
+				5A3AA1FEC2EDB5ACF3A3FEF22D33BBC1 /* SafeIAP.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		A382BA4D8249299E6FAB1DCA059D79A8 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				81AB7FEF6F6313AD26651CA60C585846 /* Pod */,
+				87BBB1D1460F7184784200BB5D87DBD8 /* Support Files */,
+				22EBE54D30E3CCFECF5C876332061BA4 /* ViewController */,
+			);
+			name = Extension;
+			path = ../../../Extension;
+			sourceTree = "<group>";
+		};
+		A53933E66C3F6D5146492A24CF259645 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				CB4304DFEA89EF468C48D58AEAC4BAE5 /* Indicator.modulemap */,
+				FBE19C375E5F39E7EEBA56D32FC6F0B3 /* Indicator-dummy.m */,
+				FCDFC8A42FC3B0BA4F9CE0265898ABC5 /* Indicator-Info.plist */,
+				D70D7AC1EB60198AA9153EC88B7C838F /* Indicator-prefix.pch */,
+				8D297646DA9327299B5CF983A98A4B74 /* Indicator-umbrella.h */,
+				A2A734E706B465362A5F83C3747A1FDF /* Indicator.debug.xcconfig */,
+				68DF727137EE23712DEF65CA4DC91A25 /* Indicator.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../SafeIAP/Example/Pods/Target Support Files/Indicator";
+			sourceTree = "<group>";
+		};
+		ACA657645F9113915327252017C77D7F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				2665E77D8B8741EC7AA6A247B350B151 /* SafeIAP.modulemap */,
+				7998AEE8DFDE4AB7084BC4737DCB1369 /* SafeIAP-dummy.m */,
+				2F23DF70A24376BF9C1AB16F35000356 /* SafeIAP-Info.plist */,
+				CC9B1E6A5F23B44591AAAC21F99E7629 /* SafeIAP-prefix.pch */,
+				444E9A90DF68393D9B33B83341B34631 /* SafeIAP-umbrella.h */,
+				C3F37E369DEA3BEC08CF933DB1E7ED0F /* SafeIAP.debug.xcconfig */,
+				CC1AB2F1BA2A079D4B756A9335F2CB6F /* SafeIAP.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/SafeIAP";
 			sourceTree = "<group>";
 		};
 		B37A29AFB8DCE5458F3FD23BE714F439 /* Pods-SafeIAP_Example */ = {
@@ -337,16 +355,16 @@
 			path = "Target Support Files/Pods-SafeIAP_Example";
 			sourceTree = "<group>";
 		};
-		BE34B79BCC2935C5C3091280F9C6133B /* SafeIAP */ = {
+		CC4D7ECFCA28007D9C9F341FA759C442 /* SafeIAP */ = {
 			isa = PBXGroup;
 			children = (
-				9AA2D21F7D1CCE3560091AA7EB0F41A9 /* Common.swift */,
-				6FCB6CE535A003DD0540A032CBD0E16A /* IAPManager.swift */,
-				25680989F4A277C0967585E261999086 /* LocalTool.swift */,
-				154CD37CDF8C821EFE597755F131E832 /* Network.swift */,
-				3AD0695FE6DDBB12ACE87D25F882A112 /* StoreObserver.swift */,
-				A6D4597CC166E330CD2A50BF3E67D09C /* Pod */,
-				2E7E78DF709AB26762BFAB729889DDF7 /* Support Files */,
+				A9CC8FE164D06E4CC4B124B9F6745194 /* Common.swift */,
+				E9E401486967E41A667B53E3529D409F /* IAPManager.swift */,
+				5FC12F43B6410D4F18A0AE31A7C7A55E /* LocalTool.swift */,
+				BBE826BADD082F762581FDD521A44AEC /* Network.swift */,
+				FAF84C88BFA833AD1237CA8737319B26 /* StoreObserver.swift */,
+				969399EA847E514391B2BFBF4BF40080 /* Pod */,
+				ACA657645F9113915327252017C77D7F /* Support Files */,
 			);
 			name = SafeIAP;
 			path = ../..;
@@ -356,7 +374,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				19BCB2D90EC29644FCEF3FE76CC42471 /* Development Pods */,
+				3E0D339491B920151A4F28D2DD3C7893 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				423C6AA3A4B518A7863C8E619FE3AD04 /* Products */,
 				D9BA6CE7FAD54188A89EFDE4F26A4624 /* Targets Support Files */,
@@ -378,32 +396,6 @@
 				73A1333185415AF5515F230C344DB69C /* Pods-SafeIAP_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		EB4EB3113AE2299DAD5517E1B1836045 /* Extension */ = {
-			isa = PBXGroup;
-			children = (
-				2DA028F3FB773BDBB011CF566C8A3E89 /* Pod */,
-				400C802F351E362E893308BD3DC2BFF7 /* Support Files */,
-				564319A7AC5AE3E7C8E2447723D652C2 /* ViewController */,
-			);
-			name = Extension;
-			path = ../../../Extension;
-			sourceTree = "<group>";
-		};
-		F7F1F6C7B96B2C3FBA3CA34D2B5DBA75 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				C7C6A13BBB4B20B9AD49B259F6830255 /* Indicator.modulemap */,
-				EF8310BF9775E5C4F532997C17249002 /* Indicator-dummy.m */,
-				16924915A606BC3E665C141F709411D1 /* Indicator-Info.plist */,
-				F1226C178FC2CEE48831A37A719141CF /* Indicator-prefix.pch */,
-				5525EFB7DFE0F7814E2134BE4340BB58 /* Indicator-umbrella.h */,
-				50132AB7AD3BA7C6788A6A7D8C16C82B /* Indicator.debug.xcconfig */,
-				904AEAAA07379CF2F6F20B7A1D89C2D6 /* Indicator.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../SafeIAP/Example/Pods/Target Support Files/Indicator";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -482,7 +474,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				69620ECCC0D52B7CA19170F5EA1FE43B /* PBXTargetDependency */,
+				3CC3AD3FDBA441BCB4A395BB11DEF10C /* PBXTargetDependency */,
 			);
 			name = "Pods-SafeIAP_Tests";
 			productName = Pods_SafeIAP_Tests;
@@ -501,9 +493,9 @@
 			buildRules = (
 			);
 			dependencies = (
-				563FF8FA8D6F1497775CE931ADC9C1A3 /* PBXTargetDependency */,
-				8ADDBC41708B1107E4F8BDE895E75D26 /* PBXTargetDependency */,
-				CD87BF733567C4C9792D960252A069FE /* PBXTargetDependency */,
+				CB96C78D4D3FA818D7CD114C2B2C699B /* PBXTargetDependency */,
+				2A129E76ED53313B22DFD195324BA8B4 /* PBXTargetDependency */,
+				E8B39FFA7A7E7F666F132350E414C734 /* PBXTargetDependency */,
 			);
 			name = "Pods-SafeIAP_Example";
 			productName = Pods_SafeIAP_Example;
@@ -540,8 +532,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				018EEF37805E656759DF96C01D6EF3EC /* PBXTargetDependency */,
-				867D93B810FC3EE301B0BFA3516489D0 /* PBXTargetDependency */,
+				F3C0C65930F703A4C012AEE5A5385989 /* PBXTargetDependency */,
+				65201552463175DD4A3F0660CB0F23D8 /* PBXTargetDependency */,
 			);
 			name = SafeIAP;
 			productName = SafeIAP;
@@ -669,48 +661,48 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		018EEF37805E656759DF96C01D6EF3EC /* PBXTargetDependency */ = {
+		2A129E76ED53313B22DFD195324BA8B4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = Extension;
-			target = 83F2BFD83867A9D0A2EB4346E585EA0B /* Extension */;
-			targetProxy = CCFA07856CD9CB513456DB2CD845FFA7 /* PBXContainerItemProxy */;
+			name = Indicator;
+			target = 2D0D6A8379869C9E2A43A64D64804F52 /* Indicator */;
+			targetProxy = 3DC14F3D67AA1B4D30FD5BCFC705B2C8 /* PBXContainerItemProxy */;
 		};
-		563FF8FA8D6F1497775CE931ADC9C1A3 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Extension;
-			target = 83F2BFD83867A9D0A2EB4346E585EA0B /* Extension */;
-			targetProxy = A3399F893FD52EACD517D98D629EEE5E /* PBXContainerItemProxy */;
-		};
-		69620ECCC0D52B7CA19170F5EA1FE43B /* PBXTargetDependency */ = {
+		3CC3AD3FDBA441BCB4A395BB11DEF10C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-SafeIAP_Example";
 			target = 6FC84D25FEFB29D499E36C3F9D531563 /* Pods-SafeIAP_Example */;
-			targetProxy = 003CE646F5A2306F1E8E7881CF162A12 /* PBXContainerItemProxy */;
+			targetProxy = 46C1795896204AE3B2C67504C6890BC3 /* PBXContainerItemProxy */;
 		};
-		867D93B810FC3EE301B0BFA3516489D0 /* PBXTargetDependency */ = {
+		65201552463175DD4A3F0660CB0F23D8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Indicator;
 			target = 2D0D6A8379869C9E2A43A64D64804F52 /* Indicator */;
-			targetProxy = 494C3FD06AD6F1B9BE804FCFB0AE6BB0 /* PBXContainerItemProxy */;
+			targetProxy = 9BD5D815AE1E02523DC0BA5DC15023CA /* PBXContainerItemProxy */;
 		};
-		8ADDBC41708B1107E4F8BDE895E75D26 /* PBXTargetDependency */ = {
+		CB96C78D4D3FA818D7CD114C2B2C699B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = Indicator;
-			target = 2D0D6A8379869C9E2A43A64D64804F52 /* Indicator */;
-			targetProxy = 93098E5559E27C5ABBD053208ABA4311 /* PBXContainerItemProxy */;
+			name = Extension;
+			target = 83F2BFD83867A9D0A2EB4346E585EA0B /* Extension */;
+			targetProxy = F26F4BA9B80EF4979AD8D255E50A36A2 /* PBXContainerItemProxy */;
 		};
-		CD87BF733567C4C9792D960252A069FE /* PBXTargetDependency */ = {
+		E8B39FFA7A7E7F666F132350E414C734 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SafeIAP;
 			target = F37028ACDD90BD94702E1861EDD2616E /* SafeIAP */;
-			targetProxy = 7A4C176EDBD4963E3B44C9E0171AA181 /* PBXContainerItemProxy */;
+			targetProxy = 72BA8ECAD8AF4C87A2A822084150914D /* PBXContainerItemProxy */;
+		};
+		F3C0C65930F703A4C012AEE5A5385989 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Extension;
+			target = 83F2BFD83867A9D0A2EB4346E585EA0B /* Extension */;
+			targetProxy = AF527ED2FB918C22102E2D04320C4CB5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		1B63577317FE4BC3DDB57FEC929679E6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 50132AB7AD3BA7C6788A6A7D8C16C82B /* Indicator.debug.xcconfig */;
+			baseConfigurationReference = A2A734E706B465362A5F83C3747A1FDF /* Indicator.debug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -742,7 +734,7 @@
 		};
 		4170F7E7F96675C8B8D3731CEFFEC543 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 33DD9CC12686595848BE421EEF8C689F /* Extension.release.xcconfig */;
+			baseConfigurationReference = F8B3FF5891D9ED1BD34D0C2F863F407D /* Extension.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -775,7 +767,7 @@
 		};
 		41729741B81B90768E470DF458AAD4CC /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 904AEAAA07379CF2F6F20B7A1D89C2D6 /* Indicator.release.xcconfig */;
+			baseConfigurationReference = 68DF727137EE23712DEF65CA4DC91A25 /* Indicator.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -808,7 +800,7 @@
 		};
 		449D95307E83A4F71264E2E956D81AA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EDF77B4F829EC47B73A859F03A987552 /* SafeIAP.debug.xcconfig */;
+			baseConfigurationReference = C3F37E369DEA3BEC08CF933DB1E7ED0F /* SafeIAP.debug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -840,7 +832,7 @@
 		};
 		728161526AC1F56851AC8F5E7CF92A8F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9B993633635E24A4798405BAEF8D83FA /* Extension.debug.xcconfig */;
+			baseConfigurationReference = 067990B7309F1FD420B5172EE5538309 /* Extension.debug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -907,7 +899,7 @@
 		};
 		862E48C2B137E6C56754AEA751EB4616 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 12FF53B5519275D3D2892A66AF6AF439 /* SafeIAP.release.xcconfig */;
+			baseConfigurationReference = CC1AB2F1BA2A079D4B756A9335F2CB6F /* SafeIAP.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;

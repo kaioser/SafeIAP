@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## Extension
 
-Copyright (c) 2023 yangxiongkai <1337503263@qq.com>
+Copyright (c) 2023 yangxiongkai <yangxiongkai@126.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +26,7 @@ THE SOFTWARE.
 
 ## Indicator
 
-Copyright (c) 2023 yangxiongkai <1337503263@qq.com>
+Copyright (c) 2023 yangxiongkai <yangxiongkai@126.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -49,7 +49,7 @@ THE SOFTWARE.
 
 ## SafeIAP
 
-Copyright (c) 2023 yxkkk <13730228573@163.com>
+Copyright (c) 2023 yxkkk <yangxiongkai@126.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

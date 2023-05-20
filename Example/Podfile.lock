@@ -1,28 +1,28 @@
 PODS:
-  - Extension/ViewController (0.1.3)
-  - Indicator/System (0.1.0)
-  - SafeIAP (0.1.0):
+  - Extension/ViewController (0.1.4)
+  - Indicator (0.1.2)
+  - SafeIAP (0.1.1):
     - Extension/ViewController
-    - Indicator/System
+    - Indicator
 
 DEPENDENCIES:
   - Extension/ViewController (from `../../Extension`)
-  - Indicator/System (from `../../Indicator`)
+  - Indicator (from `../../ActivityIndicator`)
   - SafeIAP (from `../`)
 
 EXTERNAL SOURCES:
   Extension:
     :path: "../../Extension"
   Indicator:
-    :path: "../../Indicator"
+    :path: "../../ActivityIndicator"
   SafeIAP:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Extension: 0b52904851d22e40ca496769ec1875ca2a178d4d
-  Indicator: 8c58a143a98b1a844e9a19b9c3f7e56f94c4e50e
-  SafeIAP: 8578b2c6a3327c3faad89aaceb83f82fb5a09715
+  Extension: 43d892600171030431986d5d6ef47ecafd521dcf
+  Indicator: d037681a490e67e1cb5350828b3626392d64de46
+  SafeIAP: 0fdd74c7c43b94bef6221f8db1475a1ae1adc686
 
-PODFILE CHECKSUM: cbf30d4e13edaf38555c71901c5ff5aaaf539751
+PODFILE CHECKSUM: 1d8eaa4f82366ab2e67fc59e325547ab44acd7d0
 
 COCOAPODS: 1.12.1

@@ -1,19 +1,19 @@
 {
   "name": "SafeIAP",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "IAP功能",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://gitee.com/uiop/safe-iap",
+  "homepage": "https://github.com/kaioser/SafeIAP",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yxkkk": "13730228573@163.com"
+    "yangxiongkai": "yangxiongkai@126.com"
   },
   "source": {
-    "git": "https://gitee.com/uiop/safe-iap.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/kaioser/SafeIAP.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "13.0"
@@ -21,7 +21,7 @@
   "source_files": "SafeIAP/Classes/**/*",
   "swift_versions": "5.0",
   "dependencies": {
-    "Indicator/System": [
+    "Indicator": [
 
     ],
     "Extension/ViewController": [
